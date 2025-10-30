@@ -1,12 +1,9 @@
 <!-- HEADER -->
 <div align="left">
   <h2 align="left">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=700&color=66B2FF&vCenter=true&width=680&lines=AI-Driven+Python+%26+Web+Developer;Multi-Stack+Developer+%26+Automation+Enthusiast;AI-Powered+App+Builder;Open-Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=66B2FF&vCenter=true&width=500&lines=AI-Driven+Multi-Stack+Developer;Automation+Enthusiast" alt="Typing SVG" />
   </h2>
-  <p style="margin-top:0.2rem;color:#9aa7b2">AI-driven tooling • Python automation • Full-stack web & desktop apps</p>
 </div>
-
-
 
 <ul>
   <li>🌍 I'm based in Luzon, Philippines</li>
@@ -18,7 +15,7 @@
 
 ## SKILLS
 
-<!-- Skill badges grid -->
+<!-- Skill -->
 <p>
 <!-- Row 1 -->
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40" style="margin:6px; border-radius:10px;" />
@@ -65,5 +62,3 @@
 </p>
 
 ---
-
-
