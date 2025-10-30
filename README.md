@@ -18,7 +18,7 @@
 <!-- Skill Icons Grid -->
 <p align="left">
   <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,qt,tkinter,js,ts" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,qt,ttk,js,ts" height="48" style="margin:8px;" />
   <br/>
   <!-- Row 2 -->
   <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,docker,postgres,sqlite,redis" height="48" style="margin:8px;" />
@@ -28,15 +28,6 @@
 </p>
 
 ---
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img alt="Ian's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&theme=radical" />
-  &nbsp;
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iantolentino&layout=compact&theme=radical" />
-</p>
-<hr/>
-
 <!-- STATS -->
 <p align="center">
   <img alt="Ian's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&theme=radical" />
@@ -45,4 +36,5 @@
 </p>
 
 ---
+
 
