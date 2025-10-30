@@ -1,7 +1,10 @@
 <!-- HEADER -->
 <div align="left">
-  <h2 style="color:#66b2ff">Software Developer</h2>
+  <h2 align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=500&color=00BFFF&vCenter=true&width=500&lines=Full-Stack+Developer;Python+Automation+Engineer;AI-Powered+App+Builder;Open-Source+Enthusiast" alt="Typing SVG" />
+  </h2>
 </div>
+
 
 <ul>
   <li>🌍 I'm based in Luzon, Philippines</li>
@@ -60,3 +63,4 @@
 </p>
 
 ---
+
