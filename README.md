@@ -1,25 +1,17 @@
-<!--
-  Profile README for: iantolentino
-  - Format inspired by the dark portfolio screenshot you provided
-  - Skills are shown as compact icon-like badges (one badge per skill)
-  - Live stats kept with your username so they remain accurate
-  Edit text/links as needed.
--->
-
 <!-- HEADER -->
 <div align="left">
-  <h2 style="color:#66b2ff">Web & Mob</h2>
+  <h2 style="color:#66b2ff">Software Developer</h2>
 </div>
 
 <ul>
   <li>🌍 I'm based in Luzon, Philippines</li>
-  <li>🌐 See my <a href="https://your-website.example" target="_blank">Personal Website</a></li>
-  <li>✉️ You can contact me at <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+  <li>🌐 See my <a href="https://iantolentino.github.io/Dev/" target="_blank">Personal Website</a></li>
+  <li>✉️ You can contact me at <a href="mailto:iantolentino0110@gmail.com">iantolentino0110@gmail.com</a></li>
 </ul>
 
 ---
 
-## I have experience developing in 🧰
+## SKILLS
 
 <!-- Skill badges grid -->
 <p>
@@ -69,7 +61,7 @@
 
 ---
 
-## Featured / Selected projects
+## PROJECTS
 
 > (Selected from your repo list — click the repo name to open)
 
@@ -92,4 +84,3 @@
 
 ---
 
-<p align="center">Made with ❤️ — <strong>Ian Tolentino</strong></p>
