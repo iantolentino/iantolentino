@@ -13,7 +13,7 @@
 
 ---
 
-## SKILLS
+## Experience
 
 <!-- Skill Icons Grid -->
 <p align="left">
@@ -21,18 +21,15 @@
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,pytorch,selenium,mongodb,qt,opencv" height="48" style="margin:8px;" />
   <br/>
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=react,js,npm,postman,html,htmx,css,bootstrap,docker" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=react,js,npm,postman,html,htmx,css,bootstrap,docker,java,jquery,kotlin,laravel,php" height="48" style="margin:8px;" />
   <br/>
   <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=java,jquery,kotlin,laravel,php,mysql,tailwind,vue,appwrite" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=mysql,tailwind,vue,appwrite,git,github,linux,ubuntu,vscode" height="48" style="margin:8px;" />
   <br/>
   <!-- Row 4 -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,eclipse,pycharm,figma" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=eclipse,pycharm,figma,sqlite,androidstudio,codepen,notion,obsidian" height="48" style="margin:8px;" />
   <br/>
   <!-- Row 5 -->
-  <img src="https://skillicons.dev/icons?i=sqlite,androidstudio,codepen,notion,obsidian,powershell" height="48" style="margin:8px;" />
-  <br/>
-  <!-- Row 6 -->
   <img src="https://img.shields.io/badge/WAMP%20Server-2b2b2b?style=for-the-badge&logo=windows&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
   <img src="https://img.shields.io/badge/Server%20Management-0b3d91?style=for-the-badge&logo=azuredevops&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
 </p>
@@ -46,6 +43,7 @@
 </p>
 
 ---
+
 
 
 
