@@ -1,85 +1,172 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Ian Tolentino</h1>
-<p align="center">Full-stack / Python developer · builder of things · lofi + Pomodoro creator</p>
+# generate_readme.py
+import json
+import os
+from pathlib import Path
+from urllib.parse import quote_plus
 
-<!-- SOCIALS -->
-<p align="center">
-  <a href="https://github.com/iantolentino" target="_blank">GitHub</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a>
-</p>
+# Load details.json
+with open("details.json", "r", encoding="utf-8") as f:
+    data = json.load(f)
 
----
+username = data.get("github_username", "YOUR_USERNAME")
+name = data.get("name", username)
+title = data.get("title", "")
+location = data.get("location", "")
+website = data.get("website", "")
+email = data.get("email", "")
+bio = data.get("bio", "")
+featured = data.get("featured_projects", [])
+skills = data.get("skills", [])
+fun = data.get("fun", {})
 
-<!-- ABOUT -->
-## About
-I build maintainable apps, automation scripts, and helpful developer tools. I enjoy UI simplicity, automation, and making small, reusable libraries.
+# Mapping from skill label -> shields/simple-icons logo name and color (hex)
+# Add more mappings as needed
+SKILL_MAP = {
+    "python": ("python", "3776AB"),
+    "fastapi": ("fastapi", "009688"),
+    "django": ("django", "092E20"),
+    "javascript": ("javascript", "F7DF1E"),
+    "typescript": ("typescript", "3178C6"),
+    "react": ("react", "61DAFB"),
+    "docker": ("docker", "2496ED"),
+    "postgres": ("postgresql", "316192"),
+    "git": ("git", "F05032"),
+    "linux": ("linux", "FCC624"),
+    "vscode": ("visualstudiocode", "007ACC"),
+    "bootstrap": ("bootstrap", "7952B3"),
+    "node": ("node.js", "339933"),
+    "nodejs": ("node.js", "339933"),
+    "go": ("go", "00ADD8"),
+    "redis": ("redis", "DC382D"),
+    "mongodb": ("mongodb", "47A248"),
+    "html": ("html5", "E34F26"),
+    "css": ("css3", "1572B6"),
+    "tailwind": ("tailwindcss", "06B6D4"),
+    "flask": ("flask", "000000"),
+    "aws": ("amazonaws", "FF9900"),
+    "firebase": ("firebase", "FFCA28"),
+    "figma": ("figma", "F24E1E"),
+    "raspberrypi": ("raspberrypi", "C51A4A"),
+    "ruby": ("ruby", "CC342D"),
+    "php": ("php", "777BB4"),
+    "reactnative": ("react", "61DAFB"),
+}
 
----
+def build_badge(skill_label):
+    s = skill_label.strip()
+    key = s.lower().replace(" ", "").replace("-", "")
+    logo, color = None, None
+    if key in SKILL_MAP:
+        logo, color = SKILL_MAP[key]
+    else:
+        # try simple heuristic: use key as logo if it exists in simple-icons names (best-effort)
+        logo = key
+        color = "2b2b2b"
+    # Use shields.io badge with logo param (logo uses simple-icons)
+    label = quote_plus(s)
+    badge = f"https://img.shields.io/badge/-{label}-{color}?style=for-the-badge&logo={quote_plus(logo)}&logoColor=white"
+    return badge
 
+# Deduplicate skills while preserving order
+seen = set()
+unique_skills = []
+for s in skills:
+    if s.lower() not in seen:
+        unique_skills.append(s)
+        seen.add(s.lower())
+
+# Build skill image grid (4 per row)
+rows = []
+per_row = 8  # using 8 per row matches screenshot compactness
+for i in range(0, len(unique_skills), per_row):
+    row = unique_skills[i:i+per_row]
+    rows.append(row)
+
+skill_grid_md = []
+skill_grid_md.append("## I have experience developing in 🧰\n")
+for row in rows:
+    # images separated by space with tiny gap
+    imgs = " ".join(
+        f"<img src=\"{build_badge(s)}\" alt=\"{s}\" height=\"34\" style=\"margin:4px; border-radius:8px;\" />"
+        for s in row
+    )
+    skill_grid_md.append(imgs + "\n")
+
+skill_section = "\n".join(skill_grid_md)
+
+# Featured projects markdown
+proj_lines = []
+for p in featured:
+    name_p = p.get("name")
+    url_p = p.get("url")
+    desc_p = p.get("desc", "")
+    proj_lines.append(f"- **[{name_p}]({url_p})** — {desc_p}")
+
+projects_md = "\n".join(proj_lines) if proj_lines else "- _No featured projects yet_"
+
+# Stats images (live)
+stats_md = f"""
 <!-- STATS -->
 <p align="center">
-  <img alt="Ian's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&theme=radical" />
+  <img alt="{name}'s GitHub stats" src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=radical" />
   &nbsp;
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iantolentino&layout=compact&theme=radical" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username={username}&layout=compact&theme=radical" />
 </p>
+"""
+
+# Assemble README
+readme = f"""<!--
+  Generated README — update details.json and re-run generate_readme.py
+  Paste the resulting README.md into a repo named exactly: {username}
+-->
+
+<div align="center">
+  <h1>Hi 👋, I'm {name}</h1>
+  <p><em>{title}</em></p>
+</div>
+
+<p align="center">
+  🌍 I'm based in {location} •
+  <a href="{website}" target="_blank">Personal Website</a> •
+  📫 {email}
+</p>
+
+---
+
+## About
+{bio}
+
+---
+
+{stats_md}
 
 ---
 
 ## 🔭 Featured Projects
-(Use GitHub "Pin to profile" to pin repositories — these are just examples)
 
-- **[pomodoro-gh-pages](https://github.com/iantolentino/pomodoro-gh-pages)** — Studio Ghibli inspired Pomodoro timers (YouTube + static pages).
-- **[transcription-tool](https://github.com/iantolentino/transcription-tool)** — lightweight transcription helper scripts and templates.
-- **[dev-roadmap-6mo](https://github.com/iantolentino/dev-roadmap-6mo)** — curated 6-month Python + Prompt Engineering roadmap.
+{projects_md}
 
 ---
 
-## 🛠 Skills & Tools
-<!-- Use shields.io badges with logos (simpleicons) to create compact icon-like skills -->
-<table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT / Prompting"></td>
-  </tr>
-</table>
-
----
-
-## 📌 How to customize these skill icons
-- The badges above are `shields.io` badges with logo query params. Format:
-https://img.shields.io/badge/-
-<LABEL>-<HEXCOLOR>?style=for-the-badge&logo=<logo>&logoColor=white
-- Replace `<LABEL>`, `<HEXCOLOR>`, and `<logo>` with the skill you want. For example:
-- For a full list of logo names, use SimpleIcons names (they match many shields `logo=` values).
+{skill_section}
 
 ---
 
 ## 📫 Contact
-- Email: your.email@example.com  
-- Website / Portfolio: https://your-site.example
+- Email: {email}  
+- Website: {website}
 
 ---
 
 ## ⚡ Fun
-- 🔭 Working on: Pomodoro timer videos + automations  
-- 🎧 Listening to: lofi & ambient mixes
+- 🔭 Working on: {fun.get('working_on','')}
+- 🎧 Listening to: {fun.get('listening_to','')}
 
----
+<p align="center">Made with ❤️ — <strong>{name}</strong></p>
+"""
 
-<!-- FOOTER -->
-<p align="center">Made with ❤️ — <strong>Ian Tolentino</strong></p>
+# Output README.md
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(readme)
+
+print("README.md generated. Inspect and commit it to a repo named exactly:", username)
