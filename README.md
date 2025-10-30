@@ -18,16 +18,15 @@
 <!-- Skill Icons Grid -->
 <p align="left">
   <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,pytorch,selenium,mongodb,qt,opencv,js,npm,postman" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,pytorch,selenium,mongodb,qt,opencv" height="48" style="margin:8px;" />
   <br/>
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=react,html,htmx,css,bootstrap,docker,java,jquery,kotlin,laravel,php,mysql,tailwind,vue" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=react,js,npm,postman,html,htmx,css,bootstrap,docker,java,jquery,kotlin,laravel,php,mysql,tailwind,vue,appwrite" height="48" style="margin:8px;" />
   <br/>
   <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,eclipse,pycharm,figma,sqlite,androidstudio,appwrite,codepen,notion,obsidian,powershell,ubuntu" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,eclipse,pycharm,figma,sqlite,androidstudio,codepen,notion,obsidian,powershell" height="48" style="margin:8px;" />
   <br/>
   <!-- Row 4 (Custom badges for tools not in skillicons) -->
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
   <img src="https://img.shields.io/badge/WAMP%20Server-2b2b2b?style=for-the-badge&logo=windows&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
   <img src="https://img.shields.io/badge/Server%20Management-0b3d91?style=for-the-badge&logo=azuredevops&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
 </p>
@@ -41,6 +40,7 @@
 </p>
 
 ---
+
 
 
 
