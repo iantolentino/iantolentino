@@ -18,7 +18,7 @@
 <!-- Skill Icons Grid -->
 <p align="left">
   <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,qt,ttk,js,ts" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,qt,js,ts" height="48" style="margin:8px;" />
   <br/>
   <!-- Row 2 -->
   <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,docker,postgres,sqlite,redis" height="48" style="margin:8px;" />
@@ -36,5 +36,6 @@
 </p>
 
 ---
+
 
 
