@@ -60,15 +60,3 @@
 </p>
 
 ---
-
-## PROJECTS
-
-
-- **[generative-ui-builder](https://github.com/iantolentino/generative-ui-builder)** — Describe a UI in plain English → live editable preview + exportable HTML/JSX. FastAPI backend + vanilla JS frontend. ⭐ 4 — Updated 2025-10-29  
-- **[bitcoin-trading-assistant](https://github.com/iantolentino/bitcoin-trading-assistant)** — Flask app that provides AI-powered Bitcoin trading signals using technical analysis; produces buy/sell/hold recommendations with confidence scoring. ⭐ 2 — Updated 2025-10-29  
-- **[Luminar-1.2](https://github.com/iantolentino/Luminar-1.2)** — Adaptive brightness app (OpenCV + GUI) that adjusts screen brightness from webcam/screen captures; auto/manual modes and energy/eye-strain optimizations. ⭐ 5 — Updated 2025-10-29  
-- **[Crypto-Data-Scraper](https://github.com/iantolentino/Crypto-Data-Scraper)** — Real-time crypto tracker with PySide6 UI, candlestick charts (mplfinance), table & card views, and non-blocking data fetching from CoinGecko. ⭐ 3 — Updated 2025-10-29  
-- **[url_shortener](https://github.com/iantolentino/url_shortener)** — Full-featured Flask URL shortener with analytics, custom aliases, and a REST API. ⭐ 1 — Updated 2025-10-30  
-- **[Password-Vault](https://github.com/iantolentino/Password-Vault)** — Secure Tkinter password manager using SQLite, bcrypt, and AES-256 encryption for local credential storage. ⭐ 4 — Updated 2025-10-29  
-- **[Flow-Board](https://github.com/iantolentino/Flow-Board)** — Browser-based productivity workspace combining Kanban, Calendar, Password Vault, Budget Tracker (integrated front-end UX). ⭐ 4 — Updated 2025-10-29  
-- **[Resume-Manager](https://github.com/iantolentino/Resume-Manager)** — Interactive Flask app to manage resumes dynamically (upload, edit, export). ⭐ 4 — Updated 2025-10-29
