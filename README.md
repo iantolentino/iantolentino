@@ -10,7 +10,7 @@
   <li>✉️ You can contact me at <a href="mailto:iantolentino0110@gmail.com">iantolentino0110@gmail.com</a></li>
 </ul> 
  
----
+--- 
 
 ## Experience
 <!-- Skill Icons Grid -->
@@ -37,4 +37,5 @@
   &nbsp;
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iantolentino&layout=compact&theme=radical" />
 </p>
+
 
