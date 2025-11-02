@@ -9,7 +9,7 @@
   <li>🌐 See my <a href="https://iantolentino.github.io/Dev/" target="_blank">Personal Website</a></li>
   <li>✉️ You can contact me at <a href="mailto:iantolentino0110@gmail.com">iantolentino0110@gmail.com</a></li>
 </ul> 
-
+ 
 ---
 
 ## Experience
@@ -37,3 +37,4 @@
   &nbsp;
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iantolentino&layout=compact&theme=radical" />
 </p>
+
