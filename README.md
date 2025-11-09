@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=react,js,npm,postman,html,htmx,css,bootstrap,docker,java,jquery,kotlin,laravel,php" height="48" style="margin:8px;" />
   <br/>
   <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=mysql,tailwind,vue,appwrite,git,github,linux,ubuntu,vscode,codepen,notion,obsidian,typescript" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=mysql,tailwind,vue,appwrite,git,github,linux,ubuntu,vscode,codepen,notion,obsidian,typescript,wordpress,shopify" height="48" style="margin:8px;" />
   <br/>
   <!-- Row 54 -->
   <img src="https://img.shields.io/badge/WAMP%20Server-2b2b2b?style=for-the-badge&logo=windows&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
@@ -39,6 +39,7 @@
   &nbsp;
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iantolentino&layout=compact&theme=radical" />
 </p>
+
 
 
 
