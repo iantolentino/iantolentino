@@ -37,9 +37,9 @@
 <!-- STATS -->
 <p align="center">
   <img alt="Ian's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&theme=radical" />
-  &nbsp;
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iantolentino&layout=compact&theme=radical" />
 </p>
+
 
 
 
