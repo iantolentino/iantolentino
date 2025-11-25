@@ -32,14 +32,6 @@
   <img src="https://img.shields.io/badge/Prompt Engineer-2b2b2b?style=for-the-badge&logo=windows&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
 </p> 
 
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iantolentino&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&theme=tokyonight)
-
-
-
 
 
 
