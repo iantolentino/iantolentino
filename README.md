@@ -46,11 +46,12 @@
 ![Closed Issues](https://img.shields.io/badge/Closed%20Issues-18-green?style=for-the-badge)
 
 <br/>
+<!-- GitHub stats -->
+![iantolentino's GitHub stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&theme=dark&count_private=true)
 
-<!-- Top Languages Chart -->
-![Top Languages](https://raw.githubusercontent.com/mmvergara/mmvergara/master/top-langs-chart.png)
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iantolentino&layout=compact&theme=dark)
 
-</div>
 
 
 
