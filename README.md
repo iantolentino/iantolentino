@@ -60,14 +60,6 @@
 
 </div>
 
-## 📊 Live GitHub Stats
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iantolentino&theme=default)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true)
-
-</div>
 
 
 
