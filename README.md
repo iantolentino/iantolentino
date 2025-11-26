@@ -34,11 +34,8 @@
 
 ---
 
-# Automated GitHub Stats
-
 <div align="center">
 
-## 📈 Activity Graph
 [![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iantolentino&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📊 GitHub Stats
@@ -46,6 +43,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iantolentino&layout=compact" alt="Top Languages" />
 
 </div>
+
 
 
 
