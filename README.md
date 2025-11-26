@@ -38,9 +38,16 @@
 
 [![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iantolentino&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Automatic Stats - Updates Daily
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
+| Metric | Count |
+|:---|:---:|
+| **Repositories** | [![Repos](https://img.shields.io/github/stars/iantolentino?label=&color=blue&style=for-the-badge)](https://github.com/iantolentino?tab=repositories) |
+| **Followers** | [![Followers](https://img.shields.io/github/followers/iantolentino?label=&color=gold&style=for-the-badge)](https://github.com/iantolentino?tab=followers) |
+| **Contributions** | [![Contributions](https://img.shields.io/badge/dynamic/json?color=green&label=&query=total&url=https://api.github.com/search/commits?q=author:iantolentino&style=for-the-badge)](https://github.com/iantolentino) |
+
+</div>
+
 
 
 
