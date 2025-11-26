@@ -60,6 +60,20 @@
 
 </div>
 
+## 📊 Automatic Stats Card
+<div align="center">
+
+![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide=prs,issues)
+
+</div>
+
+**This shows live counts for:**
+- 📂 Total repositories
+- ⭐ Stars received
+- 🔄 Contributions
+- 📊 All metrics update automatically
+
+
 
 
 
