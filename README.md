@@ -34,16 +34,16 @@
 
 ---
 
-## 🚀 GitHub Analytics
+# Automated GitHub Stats
 
 <div align="center">
 
-### Current Stats
-<img src="https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iantolentino&layout=compact&hide_border=true" alt="Top Languages" />
+## 📈 Activity Graph
+[![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iantolentino&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Coding Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iantolentino&theme=default" alt="GitHub Streak" />
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&count_private=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iantolentino&layout=compact" alt="Top Languages" />
 
 </div>
 
