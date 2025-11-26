@@ -54,11 +54,6 @@
 ![Pull Requests](https://img.shields.io/badge/PRs-Auto--updating-green)
 ![Issues](https://img.shields.io/badge/Issues-Auto--updating-orange)
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true)
-
-</div>
 
 
 
