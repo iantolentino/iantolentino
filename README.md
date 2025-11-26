@@ -47,6 +47,10 @@
 | **Total Issues** | ![Issues](https://badges.strrl.dev/issues/iantolentino) |
 
 
+**Repositories:** ![Repos](https://img.shields.io/github/stars/iantolentino?label=Repos&color=blue)  
+**Stars:** ![Stars](https://img.shields.io/github/stars/iantolentino?label=Stars&color=gold)  
+**Pull Requests:** ![PRs](https://img.shields.io/github/issues-pr/iantolentino?label=PRs&color=green)  
+**Issues:** ![Issues](https://img.shields.io/github/issues/iantolentino?label=Issues&color=orange)
 
 
 
