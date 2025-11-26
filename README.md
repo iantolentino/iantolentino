@@ -51,6 +51,20 @@
 
 
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true)
+
+</div>
+
+<div align="center">
+
+**This card automatically shows:**  
+📂 **Repository count** • ⭐ **Stars earned** • 🔄 **Total contributions**  
+📊 **All metrics update in real-time**
+
+</div>
+
 
 
 
