@@ -32,6 +32,24 @@
   <img src="https://img.shields.io/badge/Prompt Engineer-2b2b2b?style=for-the-badge&logo=windows&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
 </p> 
 
+---
+
+### GitHub Stats
+
+<div>
+  <img src="https://raw.githubusercontent.com/iantolentino/iantolentino/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+</div>
+
+<div>
+  <img src="https://raw.githubusercontent.com/iantolentino/iantolentino/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/iantolentino/iantolentino/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+</div>
+
+<div>
+  <img src="https://raw.githubusercontent.com/iantolentino/iantolentino/master/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/iantolentino/iantolentino/master/profile-summary-card-output/github_dark/4-productive-time.svg" />
+</div>
+
 
 
 
