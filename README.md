@@ -48,6 +48,13 @@
 
 </div>
 
+<div align="center">
+
+**Repositories:** [![Repos](https://img.shields.io/github/stars/iantolentino?label=&color=blue&style=flat-square)](https://github.com/iantolentino?tab=repositories)  
+**Followers:** [![Followers](https://img.shields.io/github/followers/iantolentino?label=&color=gold&style=flat-square)](https://github.com/iantolentino?tab=followers)  
+**Stars:** [![Stars](https://img.shields.io/badge/Stars-0-yellow?style=flat-square)](https://github.com/iantolentino?tab=repositories)
+
+</div>
 
 
 
