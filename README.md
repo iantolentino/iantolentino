@@ -39,12 +39,6 @@
 [![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iantolentino&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Key Metrics
-| Metric | Value |
-|---|---|
-| **Total Repositories** | ![Repos](https://badges.strrl.dev/repos/iantolentino) |
-| **Total Stars** | ![Stars](https://badges.strrl.dev/stars/iantolentino) |
-| **Pull Requests** | ![PRs](https://badges.strrl.dev/prs/iantolentino) |
-| **Total Issues** | ![Issues](https://badges.strrl.dev/issues/iantolentino) |
 
 | Metric | Count |
 |---|---|
@@ -52,6 +46,20 @@
 | **Total Stars** | ![Stars](https://img.shields.io/github/followers/iantolentino?label=Stars&color=gold&style=for-the-badge) |
 | **Pull Requests** | ![PRs](https://img.shields.io/github/issues-pr/iantolentino?label=PRs&color=green&style=for-the-badge) |
 | **Total Issues** | ![Issues](https://img.shields.io/github/issues/iantolentino?label=Issues&color=orange&style=for-the-badge) |
+
+## 📊 Live Counts
+
+![Repositories](https://img.shields.io/badge/Repositories-Auto--updating-blue)
+![Stars](https://img.shields.io/badge/Stars-Auto--updating-gold)
+![Pull Requests](https://img.shields.io/badge/PRs-Auto--updating-green)
+![Issues](https://img.shields.io/badge/Issues-Auto--updating-orange)
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true)
+
+</div>
+
 
 
 
