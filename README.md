@@ -38,18 +38,19 @@
 
 <div align="center">
   
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![iantolentino's GitHub stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&theme=default&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iantolentino&layout=compact&hide_border=true)
 
 </div>
 
 ## 📈 Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iantolentino&theme=default)
 
 ## 🏆 Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iantolentino&theme=flat&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
