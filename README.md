@@ -57,14 +57,20 @@
 
 </div>
 
+
 <div align="center">
 
-**This card automatically shows:**  
-📂 **Repository count** • ⭐ **Stars earned** • 🔄 **Total contributions**  
-📊 **All metrics update in real-time**
+| Metric | Count |
+|:---|:---:|
+| **📂 Repositories** | [![Repos](https://img.shields.io/github/stars/iantolentino?label=&color=blue)](https://github.com/iantolentino?tab=repositories) |
+| **⭐ Followers** | [![Followers](https://img.shields.io/github/followers/iantolentino?label=&color=gold)](https://github.com/iantolentino?tab=followers) |
+| **💻 Since** | **2021** |
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true)
 
 </div>
-
 
 
 
