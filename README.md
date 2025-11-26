@@ -46,12 +46,13 @@
 | **Pull Requests** | ![PRs](https://badges.strrl.dev/prs/iantolentino) |
 | **Total Issues** | ![Issues](https://badges.strrl.dev/issues/iantolentino) |
 
+| Metric | Count |
+|---|---|
+| **Total Repositories** | ![Repos](https://img.shields.io/github/stars/iantolentino?label=Repos&color=blue&style=for-the-badge) |
+| **Total Stars** | ![Stars](https://img.shields.io/github/followers/iantolentino?label=Stars&color=gold&style=for-the-badge) |
+| **Pull Requests** | ![PRs](https://img.shields.io/github/issues-pr/iantolentino?label=PRs&color=green&style=for-the-badge) |
+| **Total Issues** | ![Issues](https://img.shields.io/github/issues/iantolentino?label=Issues&color=orange&style=for-the-badge) |
 
-## 📊 Live Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&count_private=true&include_all_commits=true&show=repos,prs_merged,prs_merged_percentage)
-
-## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iantolentino&layout=compact)
 
 
 
