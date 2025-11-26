@@ -38,7 +38,7 @@
 
 <div align="center">
   
-![iantolentino's GitHub stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&theme=default&hide_title=true)
+![Ian Tolentino's GitHub stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&theme=default&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iantolentino&layout=compact&hide_border=true)
 
 </div>
@@ -50,8 +50,6 @@
 ## 🏆 Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iantolentino&theme=flat&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 
 
