@@ -44,18 +44,17 @@
 |:---|:---:|
 | **Repositories** | [![Repos](https://img.shields.io/github/stars/iantolentino?label=&color=blue&style=for-the-badge)](https://github.com/iantolentino?tab=repositories) |
 | **Followers** | [![Followers](https://img.shields.io/github/followers/iantolentino?label=&color=gold&style=for-the-badge)](https://github.com/iantolentino?tab=followers) |
-| **Contributions** | [![Contributions](https://img.shields.io/badge/dynamic/json?color=green&label=&query=total&url=https://api.github.com/search/commits?q=author:iantolentino&style=for-the-badge)](https://github.com/iantolentino) |
-
 </div>
 
 <div align="center">
 
-**Repositories:** [![Repos](https://img.shields.io/github/stars/iantolentino?label=&color=blue&style=flat-square)](https://github.com/iantolentino?tab=repositories)  
-**Followers:** [![Followers](https://img.shields.io/github/followers/iantolentino?label=&color=gold&style=flat-square)](https://github.com/iantolentino?tab=followers)  
-**Stars:** [![Stars](https://img.shields.io/badge/Stars-0-yellow?style=flat-square)](https://github.com/iantolentino?tab=repositories)
+| | Metric | Count |
+|:---:|:---|:---:|
+| 📂 | **Repositories** | [![Repos](https://img.shields.io/github/stars/iantolentino?label=&color=blue)](https://github.com/iantolentino?tab=repositories) |
+| ⭐ | **Followers** | [![Followers](https://img.shields.io/github/followers/iantolentino?label=&color=gold)](https://github.com/iantolentino?tab=followers) |
+| 🔄 | **Since** | [![Years](https://img.shields.io/badge/2021–Present-8A2BE2)](https://github.com/iantolentino) |
 
 </div>
-
 
 
 
