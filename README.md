@@ -44,33 +44,10 @@
 |:---|:---:|
 | **Repositories** | [![Repos](https://img.shields.io/github/stars/iantolentino?label=&color=blue&style=for-the-badge)](https://github.com/iantolentino?tab=repositories) |
 | **Followers** | [![Followers](https://img.shields.io/github/followers/iantolentino?label=&color=gold&style=for-the-badge)](https://github.com/iantolentino?tab=followers) |
-| **Since** | [![Years](https://img.shields.io/badge/2021–Present-8A2BE2)](https://github.com/iantolentino) |
+| **Since** | [![Years](https://img.shields.io/badge/2021–Present-0b3d91)](https://github.com/iantolentino) |
 </div>
 
 
-
-
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true)
-
-</div>
-
-
-<div align="center">
-
-| Metric | Count |
-|:---|:---:|
-| **📂 Repositories** | [![Repos](https://img.shields.io/github/stars/iantolentino?label=&color=blue)](https://github.com/iantolentino?tab=repositories) |
-| **⭐ Followers** | [![Followers](https://img.shields.io/github/followers/iantolentino?label=&color=gold)](https://github.com/iantolentino?tab=followers) |
-| **💻 Since** | **2021** |
-
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true)
-
-</div>
 
 
 
