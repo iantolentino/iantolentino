@@ -38,24 +38,17 @@
 
 [![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iantolentino&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📈 Live Metrics
+## 🚀 Quick Stats
 
-| Metric | Count |
-|---|---|
-| **Total Repositories** | ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=public_repos&url=https://api.github.com/users/iantolentino&logo=github) |
-| **Total Stars** | ![Stars](https://img.shields.io/badge/dynamic/json?color=gold&label=&query=followers&url=https://api.github.com/users/iantolentino&logo=github) |
-| **Total Contributions** | ![Contributions](https://img.shields.io/badge/dynamic/json?color=green&label=&query=%24.0.total&url=https://api.github.com/search/commits?q=author:iantolentino&logo=github) |
-
-## 🏆 GitHub Profile Stats
+**Repositories:** ![Repos](https://img.shields.io/github/stars/iantolentino?label=&color=blue)  
+**Followers:** ![Followers](https://img.shields.io/github/followers/iantolentino?label=&color=gold)  
+**Contributions:** ![Contributions](https://img.shields.io/badge/Contributions-Auto%20Updating-green)
 
 <div align="center">
 
-![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iantolentino&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true)
 
 </div>
-
 
 
 
