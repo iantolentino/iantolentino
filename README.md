@@ -41,12 +41,10 @@
 ## Key Metrics
 | Metric | Value |
 |---|---|
-| **Total Repositories** | ![Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=public_repos&url=https://api.github.com/users/iantolentino&logo=github) |
-| **Total Stars** | ![Stars](https://img.shields.io/badge/dynamic/json?color=gold&label=&query=followers&url=https://api.github.com/users/iantolentino&logo=github) |
-| **Pull Requests** | ![PRs](https://img.shields.io/badge/dynamic/json?color=green&label=&query=public_repos&url=https://api.github.com/users/iantolentino&logo=github) |
-| **Total Issues** | ![Issues](https://img.shields.io/badge/dynamic/json?color=orange&label=&query=public_repos&url=https://api.github.com/users/iantolentino&logo=github) |
-
-
+| **Total Repositories** | ![Repos](https://badges.strrl.dev/repos/iantolentino) |
+| **Total Stars** | ![Stars](https://badges.strrl.dev/stars/iantolentino) |
+| **Pull Requests** | ![PRs](https://badges.strrl.dev/prs/iantolentino) |
+| **Total Issues** | ![Issues](https://badges.strrl.dev/issues/iantolentino) |
 
 
 
