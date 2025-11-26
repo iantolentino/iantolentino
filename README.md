@@ -38,21 +38,23 @@
 
 [![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iantolentino&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Key Metrics
+## 📈 Live Metrics
 
 | Metric | Count |
 |---|---|
-| **Total Repositories** | ![Repos](https://img.shields.io/github/stars/iantolentino?label=Repos&color=blue&style=for-the-badge) |
-| **Total Stars** | ![Stars](https://img.shields.io/github/followers/iantolentino?label=Stars&color=gold&style=for-the-badge) |
-| **Pull Requests** | ![PRs](https://img.shields.io/github/issues-pr/iantolentino?label=PRs&color=green&style=for-the-badge) |
-| **Total Issues** | ![Issues](https://img.shields.io/github/issues/iantolentino?label=Issues&color=orange&style=for-the-badge) |
+| **Total Repositories** | ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=public_repos&url=https://api.github.com/users/iantolentino&logo=github) |
+| **Total Stars** | ![Stars](https://img.shields.io/badge/dynamic/json?color=gold&label=&query=followers&url=https://api.github.com/users/iantolentino&logo=github) |
+| **Total Contributions** | ![Contributions](https://img.shields.io/badge/dynamic/json?color=green&label=&query=%24.0.total&url=https://api.github.com/search/commits?q=author:iantolentino&logo=github) |
 
-## 📊 Live Counts
+## 🏆 GitHub Profile Stats
 
-![Repositories](https://img.shields.io/badge/Repositories-Auto--updating-blue)
-![Stars](https://img.shields.io/badge/Stars-Auto--updating-gold)
-![Pull Requests](https://img.shields.io/badge/PRs-Auto--updating-green)
-![Issues](https://img.shields.io/badge/Issues-Auto--updating-orange)
+<div align="center">
+
+![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iantolentino&layout=compact)
+
+</div>
 
 
 
