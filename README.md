@@ -60,19 +60,14 @@
 
 </div>
 
-## 📊 Automatic Stats Card
+## 📊 Live GitHub Stats
 <div align="center">
 
-![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide=prs,issues)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iantolentino&theme=default)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true)
 
 </div>
-
-**This shows live counts for:**
-- 📂 Total repositories
-- ⭐ Stars received
-- 🔄 Contributions
-- 📊 All metrics update automatically
-
 
 
 
