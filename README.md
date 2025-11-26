@@ -45,6 +45,19 @@
 | **Total Stars** | ![Stars](https://badges.pufler.dev/stars/iantolentino) |
 | **Account Age** | ![Account Age](https://badges.pufler.dev/years/iantolentino) |
 
+# 📊 GitHub Stats
+
+## 📈 Activity Graph
+[![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iantolentino&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 📋 Key Metrics
+
+| Metric | Value |
+|---|---|
+| **Total Repositories** | ![Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=public_repos&url=https://api.github.com/users/iantolentino&logo=github) |
+| **Total Stars** | ![Stars](https://img.shields.io/badge/dynamic/json?color=gold&label=&query=followers&url=https://api.github.com/users/iantolentino&logo=github) |
+| **Pull Requests** | ![PRs](https://img.shields.io/badge/dynamic/json?color=green&label=&query=public_repos&url=https://api.github.com/users/iantolentino&logo=github) |
+| **Total Issues** | ![Issues](https://img.shields.io/badge/dynamic/json?color=orange&label=&query=public_repos&url=https://api.github.com/users/iantolentino&logo=github) |
 
 
 
