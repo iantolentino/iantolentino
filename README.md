@@ -44,17 +44,10 @@
 |:---|:---:|
 | **Repositories** | [![Repos](https://img.shields.io/github/stars/iantolentino?label=&color=blue&style=for-the-badge)](https://github.com/iantolentino?tab=repositories) |
 | **Followers** | [![Followers](https://img.shields.io/github/followers/iantolentino?label=&color=gold&style=for-the-badge)](https://github.com/iantolentino?tab=followers) |
+| **Since** | [![Years](https://img.shields.io/badge/2021–Present-8A2BE2)](https://github.com/iantolentino) |
 </div>
 
-<div align="center">
 
-| | Metric | Count |
-|:---:|:---|:---:|
-| 📂 | **Repositories** | [![Repos](https://img.shields.io/github/stars/iantolentino?label=&color=blue)](https://github.com/iantolentino?tab=repositories) |
-| ⭐ | **Followers** | [![Followers](https://img.shields.io/github/followers/iantolentino?label=&color=gold)](https://github.com/iantolentino?tab=followers) |
-| 🔄 | **Since** | [![Years](https://img.shields.io/badge/2021–Present-8A2BE2)](https://github.com/iantolentino) |
-
-</div>
 
 
 
