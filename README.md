@@ -35,12 +35,22 @@
 ---
 
 ### GitHub Stats
-### GitHub Stats (Alternative)
+<div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/iantolentino?label=Followers&style=for-the-badge)
-![GitHub repos](https://img.shields.io/github/repos/iantolentino?style=for-the-badge)
-![Top Language](https://img.shields.io/github/languages/top/iantolentino?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/iantolentino?style=for-the-badge)
+<!-- Profile Summary -->
+![Total Repos](https://img.shields.io/badge/Total%20Repos-52-blue?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Stars-280-yellow?style=for-the-badge)
+![Forks](https://img.shields.io/badge/Forks-40-lightgrey?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-5.1K-brightgreen?style=for-the-badge)
+![Total Issues](https://img.shields.io/badge/Total%20Issues-18-red?style=for-the-badge)
+![Closed Issues](https://img.shields.io/badge/Closed%20Issues-18-green?style=for-the-badge)
+
+<br/>
+
+<!-- Top Languages Chart -->
+![Top Languages](https://raw.githubusercontent.com/mmvergara/mmvergara/master/top-langs-chart.png)
+
+</div>
 
 
 
