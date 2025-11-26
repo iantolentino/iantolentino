@@ -35,20 +35,13 @@
 ---
 
 ### GitHub Stats
-<!-- Overall GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</div>
+### GitHub Stats (Alternative)
 
-<!-- Top Languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iantolentino&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
+![GitHub followers](https://img.shields.io/github/followers/iantolentino?label=Followers&style=for-the-badge)
+![GitHub repos](https://img.shields.io/github/repos/iantolentino?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/iantolentino?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/iantolentino?style=for-the-badge)
 
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=iantolentino&theme=github" alt="Contribution Graph" />
-</div>
 
 
 
