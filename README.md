@@ -38,14 +38,16 @@
 
 [![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iantolentino&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 📋 Key Metrics
+| Metric | Value |
+|--------|-------|
+| **Total Repositories** | ![Repositories](https://badges.pufler.dev/repos/iantolentino) |
+| **Total Stars** | ![Stars](https://badges.pufler.dev/stars/iantolentino) |
+| **Account Age** | ![Account Age](https://badges.pufler.dev/years/iantolentino) |
+
 ## 📊 GitHub Stats
-## 🚀 Profile Overview
-![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&hide_title=true)
 
-## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iantolentino&layout=compact)
-
-</div>
 
 
 
