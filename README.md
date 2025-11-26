@@ -35,23 +35,19 @@
 ---
 
 ### GitHub Stats
-<div align="center">
+# TODAY
 
-<!-- Profile Summary -->
-![Total Repos](https://img.shields.io/badge/Total%20Repos-52-blue?style=for-the-badge)
-![Stars](https://img.shields.io/badge/Stars-280-yellow?style=for-the-badge)
-![Forks](https://img.shields.io/badge/Forks-40-lightgrey?style=for-the-badge)
-![Contributions](https://img.shields.io/badge/Contributions-5.1K-brightgreen?style=for-the-badge)
-![Total Issues](https://img.shields.io/badge/Total%20Issues-18-red?style=for-the-badge)
-![Closed Issues](https://img.shields.io/badge/Closed%20Issues-18-green?style=for-the-badge)
+<a href="https://github.com/iantolentino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iantolentino&layout=compact&langs_count=8&theme=default"/>
+</a>
 
-<br/>
-<!-- GitHub stats -->
-![iantolentino's GitHub stats](https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&theme=dark&count_private=true)
+## Quick Stats
 
-<!-- Top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iantolentino&layout=compact&theme=dark)
-
+- **Total Public Repos:** 52
+- **Total Stars:** 280
+- **Total Forks:** 40
+- **Total Contributions:** 5.1K
 
 
 
