@@ -35,19 +35,12 @@
 ---
 
 ### GitHub Stats
-# TODAY
+# My GitHub Stats
 
-<a href="https://github.com/iantolentino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iantolentino&layout=compact&langs_count=8&theme=default"/>
-</a>
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-## Quick Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
-- **Total Public Repos:** 52
-- **Total Stars:** 280
-- **Total Forks:** 40
-- **Total Contributions:** 5.1K
 
 
 
