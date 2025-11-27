@@ -5,7 +5,7 @@
   </h2>
 </div>
 <ul>
-  <li>🌍 I'm based in Luzon, Philippines</li>
+  <li>🌍 I'm based in Luzon, Philippines</li> 
   <li>🌐 See my <a href="https://iantolentino.github.io/Dev/" target="_blank">Personal Website</a></li>
   <li>✉️ You can contact me at <a href="mailto:iantolentino0110@gmail.com">iantolentino0110@gmail.com</a></li>
 </ul> 
@@ -48,6 +48,7 @@
 | **Since** | [![Years](https://img.shields.io/badge/2021–Present-0b3d91)](https://github.com/iantolentino) |
 
 </div>
+
 
 
 
