@@ -18,10 +18,8 @@
   
   <!-- GitHub Profile Summary Cards -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iantolentino&theme=github_dark" alt="Repos per Language" height="165" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iantolentino&theme=github_dark" alt="Most Commit Language" height="165" />
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iantolentino&theme=github_dark" alt="GitHub Stats" height="165" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iantolentino&theme=github_dark" alt="Productive Time" height="165" />
   
   <!-- Your preferred GitHub Stats widget -->
   <br/>
@@ -57,3 +55,4 @@
 
 [![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iantolentino&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
+
