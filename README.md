@@ -12,6 +12,24 @@
  
 --- 
 
+## GitHub Stats
+
+<div align="center">
+  
+  <!-- GitHub Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=iantolentino&show_icons=true&theme=radical&hide_border=true" alt="Ian's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iantolentino&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iantolentino&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+  
+  <!-- Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=iantolentino&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
+  
+</div>
+
+---
+
 ## Experience
 <!-- Skill Icons Grid -->
 <p align="left">
@@ -24,7 +42,7 @@
   <!-- Row 3 -->
   <img src="https://skillicons.dev/icons?i=mysql,tailwind,vue,appwrite,git,github,linux,ubuntu,vscode,codepen,notion,obsidian,typescript,wordpress" height="48" style="margin:8px;" />
   <br/>
-  <!-- Row 54 -->
+  <!-- Row 4 -->
   <img src="https://img.shields.io/badge/WAMP%20Server-2b2b2b?style=for-the-badge&logo=windows&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
   <img src="https://img.shields.io/badge/Server%20Management-0b3d91?style=for-the-badge&logo=azuredevops&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
   <img src="https://img.shields.io/badge/Batchfile-2b2b2b?style=for-the-badge&logo=windows&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
@@ -37,23 +55,4 @@
 <div align="center">
 
 [![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iantolentino&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
