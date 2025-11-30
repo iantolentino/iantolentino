@@ -22,9 +22,7 @@
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iantolentino&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
   
-  <!-- Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=iantolentino&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
-  
+
 </div>
 
 ---
@@ -55,5 +53,6 @@
 
 [![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iantolentino&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
+
 
 
