@@ -15,14 +15,18 @@
 ## GitHub Stats
 
 <div align="center">
-
-  <!-- Custom GitHub Stats with your preferred style -->
+  
+  <!-- GitHub Profile Summary Cards -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iantolentino&theme=github_dark" alt="Repos per Language" height="165" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iantolentino&theme=github_dark" alt="Most Commit Language" height="165" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iantolentino&theme=github_dark" alt="GitHub Stats" height="165" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iantolentino&theme=github_dark" alt="Productive Time" height="165" />
+  
+  <!-- Your preferred GitHub Stats widget -->
+  <br/>
   <img src="https://github-stats-alpha.vercel.app/api?username=iantolentino&cc=0d1117&tc=7d8590&ic=2f81f7&bc=30363d" alt="GitHub Stats" />
   
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iantolentino&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
-  
-
 </div>
 
 ---
@@ -53,6 +57,3 @@
 
 [![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iantolentino&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
-
-
-
