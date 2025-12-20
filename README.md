@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="left">
   <h2 align="left"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=66B2FF&vCenter=true&width=1000&lines=Full-Stack+Automation+Developer+/+IT+Support+Engineer;Ian+Tolentino" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=66B2FF&vCenter=true&width=1000&lines=Python+Developer+/+IT+Support+Engineer;Ian+Tolentino" alt="Typing SVG" />
   </h2>
 </div>
 <ul>
@@ -46,6 +46,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iantolentino&theme=github_dark" alt="Repos per Language" height="165" />
   
 </div>
+
 
 
 
