@@ -25,11 +25,11 @@
   <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,ubuntu,vscode,codepen,notion,obsidian,wordpress" height="48" style="margin:8px;" />
   <br/>
   <!-- Row 4 -->
-  <img src="https://img.shields.io/badge/WAMP%20Server-2b2b2b?style=for-the-badge&logo=windows&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
-  <img src="https://img.shields.io/badge/Server%20Management-0b3d91?style=for-the-badge&logo=azuredevops&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
+  <img src="https://img.shields.io/badge/WAMP%20Server/XAMPP%20SERVER-2b2b2b?style=for-the-badge&logo=windows&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
+  <img src="https://img.shields.io/badge/System%20Administrator-0b3d91?style=for-the-badge&logo=azuredevops&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
   <img src="https://img.shields.io/badge/Batchfile-2b2b2b?style=for-the-badge&logo=windows&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
   <img src="https://img.shields.io/badge/Shell-0b3d91?style=for-the-badge&logo=azuredevops&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
-  <img src="https://img.shields.io/badge/Prompt Engineer-2b2b2b?style=for-the-badge&logo=windows&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
+  <img src="https://img.shields.io/badge/Automation Engineer-2b2b2b?style=for-the-badge&logo=windows&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
 </p> 
 
 ---
@@ -46,6 +46,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iantolentino&theme=github_dark" alt="Repos per Language" height="165" />
   
 </div>
+
 
 
 
