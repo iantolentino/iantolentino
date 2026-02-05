@@ -16,13 +16,13 @@
 <!-- Skill Icons Grid -->
 <p align="left">
   <!-- Row 1 (androidstudio) -->
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,pytorch,selenium,mongodb,qt,opencv,eclipse,pycharm,sqlite" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,pytorch,selenium,mongodb,qt,opencv,eclipse,sqlite" height="48" style="margin:8px;" />
   <br/>
   <!-- Row 2 (java,jquery,kotlin)-->
-  <img src="https://skillicons.dev/icons?i=react,js,npm,postman,html,htmx,css,bootstrap,docker,laravel,php,figma" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=react,js,npm,postman,html,htmx,css,bootstrap,docker,laravel,php," height="48" style="margin:8px;" />
   <br/>
   <!-- Row 3 (,tailwind,vue,appwrite,typescript)-->
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,ubuntu,vscode,codepen,notion,obsidian,wordpress" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,ubuntu,vscode,notion,obsidian,wordpress,figma,pycharm" height="48" style="margin:8px;" />
   <br/>
   <!-- Row 4 -->
   <img src="https://img.shields.io/badge/WAMP%20Server/XAMPP%20SERVER-2b2b2b?style=for-the-badge&logo=windows&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
@@ -46,6 +46,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iantolentino&theme=github_dark" alt="Repos per Language" height="165" />
   
 </div>
+
 
 
 
