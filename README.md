@@ -15,14 +15,14 @@
 ## I have Experience in:
 <!-- Skill Icons Grid -->
 <p align="left">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,pytorch,selenium,mongodb,qt,opencv,eclipse,pycharm,figma,sqlite,androidstudio" height="48" style="margin:8px;" />
+  <!-- Row 1 (androidstudio) -->
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,pytorch,selenium,mongodb,qt,opencv,eclipse,pycharm,sqlite" height="48" style="margin:8px;" />
   <br/>
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=react,js,npm,postman,html,htmx,css,bootstrap,docker,java,jquery,kotlin,laravel,php" height="48" style="margin:8px;" />
+  <!-- Row 2 (java,jquery,kotlin)-->
+  <img src="https://skillicons.dev/icons?i=react,js,npm,postman,html,htmx,css,bootstrap,docker,laravel,php,figma" height="48" style="margin:8px;" />
   <br/>
-  <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=mysql,tailwind,vue,appwrite,git,github,linux,ubuntu,vscode,codepen,notion,obsidian,typescript,wordpress" height="48" style="margin:8px;" />
+  <!-- Row 3 (,tailwind,vue,appwrite,typescript)-->
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,ubuntu,vscode,codepen,notion,obsidian,wordpress" height="48" style="margin:8px;" />
   <br/>
   <!-- Row 4 -->
   <img src="https://img.shields.io/badge/WAMP%20Server-2b2b2b?style=for-the-badge&logo=windows&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
@@ -46,6 +46,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iantolentino&theme=github_dark" alt="Repos per Language" height="165" />
   
 </div>
+
 
 
 
