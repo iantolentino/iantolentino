@@ -14,7 +14,7 @@
 
 ## I have Experience in:
 <!-- Skill Icons Grid -->
-<p align="left">
+<p align="center">
   <!-- Row 1 (androidstudio) -->
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,pytorch,selenium,mongodb,qt,opencv,eclipse,sqlite" height="48" style="margin:8px;" />
   <br/>
@@ -46,6 +46,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iantolentino&theme=github_dark" alt="Repos per Language" height="165" />
   
 </div>
+
 
 
 
