@@ -46,8 +46,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iantolentino&theme=github_dark" alt="Repos per Language" height="165" />
   
 </div>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iantolentino&" alt="iantolentino" /></p>
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iantolentino&" alt="iantolentino" /></p>
+</div>
 
 
 
