@@ -1,4 +1,4 @@
-<!-- HEADER --> 
+<!-- HEADER -->  
 <div align="left" style="color:#ffffff;">
   <h2 align="left">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=66B2FF&vCenter=true&width=1000&lines=Python+Developer+/+IT+Support+Engineer;Ian+Tolentino" alt="Typing SVG" />
@@ -69,3 +69,4 @@
 ">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iantolentino&theme=github-dark" />
 </div>
+
