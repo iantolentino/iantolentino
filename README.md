@@ -22,11 +22,11 @@
   border-radius:10px;
   padding:16px;
 ">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,pytorch,selenium,mongodb,qt,opencv,eclipse,sqlite" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,pytorch,selenium,mongodb,qt,opencv,eclipse,sqlite,railway" height="48" style="margin:8px;" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,js,npm,postman,html,htmx,css,bootstrap,docker,laravel,php" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=react,js,npm,postman,html,htmx,css,bootstrap,docker,laravel,php,render" height="48" style="margin:8px;" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,ubuntu,vscode,notion,obsidian,wordpress,figma,pycharm" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,ubuntu,vscode,notion,obsidian,wordpress,figma,pycharm,vercel" height="48" style="margin:8px;" />
   <br/>
   <img src="https://img.shields.io/badge/WAMP%20Server/XAMPP%20SERVER-30363d?style=for-the-badge&logo=windows&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
   <img src="https://img.shields.io/badge/System%20Administrator-2f81f7?style=for-the-badge&logo=azuredevops&logoColor=white" height="40" style="margin:6px; border-radius:10px;" />
