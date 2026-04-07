@@ -22,7 +22,7 @@
   border-radius:10px;
   padding:16px;
 ">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,pytorch,selenium,mongodb,qt,opencv,eclipse,sqlite,react" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,pytorch,selenium,mongodb,qt,opencv,eclipse,sqlite,json" height="48" style="margin:8px;" />
   <br/>
   <img src="https://skillicons.dev/icons?i=react,js,npm,postman,html,htmx,css,bootstrap,docker,laravel,php,typescript" height="48" style="margin:8px;" />
   <br/>
