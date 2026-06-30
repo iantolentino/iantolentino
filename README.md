@@ -7,7 +7,7 @@
 
 <ul style="color:#ffffff;">
   <li>🌍 I'm based in Luzon, Philippines</li>
-  <li>🌐 See my <a href="https://iantolentino.github.io/Dev/" target="_blank" style="color:#66B2FF;">Personal Website</a></li>
+  <li>🌐 See my <a href="https://idt-dev.vercel.app/" target="_blank" style="color:#66B2FF;">Personal Website</a></li>
   <li>✉️ You can contact me at <a href="mailto:iantolentino0110@gmail.com" style="color:#66B2FF;">iantolentino0110@gmail.com</a></li>
 </ul>
 
